@@ -1,0 +1,18 @@
+[
+  {
+    "latitude": 28.6139,
+    "longitude": 77.2090,
+    "aqi": 180,
+    "pm25": 110,
+    "source": "manual",
+    "recorded_at": "2025-07-02T14:00:00Z"
+  },
+  {
+    "latitude": 28.0380,
+    "longitude": 73.3170,
+    "aqi": 90,
+    "pm25": 45,
+    "source": "manual",
+    "recorded_at": "2025-07-02T14:05:00Z"
+  }
+]

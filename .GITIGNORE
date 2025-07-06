@@ -1,0 +1,13 @@
+
+###############################################################################
+#  NODE.JS                                                                    #
+###############################################################################
+
+# Dependency directories
+node_modules/
+.pnpm/
+jspm_packages/
+
+
+# Env & secrets
+.env*                    # .env, .env.local, .env.production, etc.
